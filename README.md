@@ -17,7 +17,7 @@ This repository contains the source code for "WISH," a voice assistant built usi
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/voice-assistant-wish.git
+    git clone https://github.com/raka788/voice-assistant-wish.git
     cd voice-assistant-wish
     ```
 
